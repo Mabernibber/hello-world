@@ -1,2 +1,2 @@
 # hello-world
-jibberjabber
+print('hello world')
